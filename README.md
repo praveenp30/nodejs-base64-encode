@@ -1,8 +1,6 @@
 Simple String Encode/Decode library for node.js
 ===============================================
 
-[![NPM](https://nodei.co/npm/short.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nodejs-base64-encode/)
-
 [nodejs base64 encode](https://github.com/praveencrony/nodejs-base64-encode) is a simple node js package for encode and decode the given string with type.
 
 
@@ -16,19 +14,19 @@ $ npm install nodejs-base64-encode
 
 **For Encode a String**
 
-	const encode = require('nodejs-base64-encode');
+    const encode = require('nodejs-base64-encode');
 
-  console.log(encode.encode('npm world', 'base64'));
+    console.log(encode.encode('npm world', 'base64'));
 
-  prints: bnBtIHdvcmxk
+    prints: bnBtIHdvcmxk
 
 **For Decode a String**
 
-  const encode = require('nodejs-base64-encode');
+    const encode = require('nodejs-base64-encode');
 
-  console.log(encode.decode('npm world', 'base64'));
+    console.log(encode.decode('npm world', 'base64'));
 
-  prints: npm world
+    prints: npm world
 
 **The possible encoding types are**
 
