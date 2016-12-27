@@ -1,7 +1,5 @@
-Simple String Encode/Decode library for node.js
+Simple Node Js Package For Encode Decode a Given String
 ===============================================
-
-[nodejs base64 encode](https://github.com/praveencrony/nodejs-base64-encode) is a simple node js package for encode and decode the given string with type.
 
 
 ## Installation
@@ -38,5 +36,5 @@ $ npm install nodejs-base64-encode
 - hex
 - utf8
 
-[This Package Is Under The MIT License](https://raw.githubusercontent.com/praveencrony/nodejs-base64-encode/master/LICENSE.txt)
+[This Package Is Under The MIT License](https://raw.githubusercontent.com/praveenp30/nodejs-base64-encode/master/LICENSE.txt)
 
