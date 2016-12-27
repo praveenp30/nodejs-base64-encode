@@ -1,6 +1,7 @@
 Simple Node Js Package For Encode Decode a Given String
 ===============================================
 
+[![NPM](https://nodei.co/npm/nodejs-base64-encode.png)](https://nodei.co/npm/nodejs-base64-encode/)
 
 ## Installation
 
