@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-base64-encode",
+  "version": "0.0.1",
+  "description": "Simple Node Js Package For Encode Decode A Given String",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenp30/nodejs-base64-encode.git"
+  },
+  "keywords": [
+    "nodejs base64",
+    "nodejs base64 encode",
+    "nodejs string encode decode"
+  ],
+  "author": "Praveen Punniyamoorthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praveenp30/nodejs-base64-encode/issues"
+  },
+  "homepage": "https://github.com/praveenp30/nodejs-base64-encode#readme"
+}
