@@ -23,7 +23,7 @@ $ npm install nodejs-base64-encode
 
     const encode = require('nodejs-base64-encode');
 
-    console.log(encode.decode('npm world', 'base64'));
+    console.log(encode.decode('bnBtIHdvcmxk', 'base64'));
 
     prints: npm world
 
